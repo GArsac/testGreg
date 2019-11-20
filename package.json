@@ -1,0 +1,17 @@
+{
+  "name": "testws",
+  "version": "1.0.0",
+  "description": "test de création de WS grace à node.js",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html-pdf": "^2.2.0",
+    "pdf2html": "^2.5.0",
+    "utf8": "^3.0.0"
+  }
+}
